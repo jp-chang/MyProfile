@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack developer & UI/UX Designer</h3>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/junpeng-c-001">
+  <a href="https://www.linkedin.com/in/junpeng-c-001" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
    <a href="mailto:rocchang.jp@gmail.com">
