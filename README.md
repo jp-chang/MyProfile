@@ -21,8 +21,16 @@
 
 ---
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jp-chang&show_icons=true&locale=en&layout=compact" alt="jp-chang" /></p>
+ <p align="center">
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=jp-chang&hide=php&theme=tokyonight">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jp-chang&hide=php&theme=tokyonight" />
+</a>
+</p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jp-chang&show_icons=true&locale=en" alt="jp-chang" /></p>
+<p align="center">
+<a href="https://github-readme-stats.vercel.app/api?username=jp-chang&theme=tokyonight">
+  <img  align="center" src="https://github-readme-stats.vercel.app/api?username=jp-chang&count_private=true&show_icons=true&theme=tokyonight" />
+</a>
+ </p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jp-chang&" alt="jp-chang" /></p>
+
