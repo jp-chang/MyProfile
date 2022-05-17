@@ -21,16 +21,9 @@
 
 ---
 
- <p align="center">
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=jp-chang&hide=php&theme=tokyonight">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jp-chang&hide=php&theme=tokyonight" />
-</a>
-</p>
-
 <p align="center">
 <a href="https://github-readme-stats.vercel.app/api?username=jp-chang&theme=tokyonight">
   <img  align="center" src="https://github-readme-stats.vercel.app/api?username=jp-chang&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
  </p>
-
 
