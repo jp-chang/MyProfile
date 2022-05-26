@@ -3,8 +3,7 @@
 <img width ="200" src="https://github.com/jp-chang/jp-chang/blob/main/logo.png" alt="logo"/>
  </div>
 
-
-<h3 align="center">A passionate Full Stack developer & UI/UX Designer</h3>
+<h3 align="center">A passionate Full Stack developer & UI/UX Designe</h3>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/junpeng-c-001" target="_blank">
